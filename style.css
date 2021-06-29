@@ -28,15 +28,15 @@ html{
 
 .name-box{
     text-align: center;
-    background-color: aquamarine;
+    border: 2px dotted wheat;
     padding: 1rem;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     font-family: Arial;
 }
 .position-box{
     text-align: center;
-    background-color: turquoise;
+    border: 2px dotted slateblue;
     padding: 1rem;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     font-family: Arial;
 }
