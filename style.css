@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-size: 62.5%;
+}
+.main-container{
+    border: 2px solid black;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.header-box{
+    background-color: blueviolet;
+    padding: 2rem 2rem;
+    box-shadow: 3px 3px 8px 1px rgba(0,0,0,0.57);
+}
+.header-box h2{
+    color: white;
+    font-family: Helvetica;
+    font-size: 3rem;
+}
+.info-container{
+    padding: 3rem;
+}
+
+.name-box{
+    text-align: center;
+    background-color: aquamarine;
+    padding: 1rem;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
+.position-box{
+    text-align: center;
+    background-color: turquoise;
+    padding: 1rem;
+    font-size: 1.5rem;
+    font-family: Arial;
+}
