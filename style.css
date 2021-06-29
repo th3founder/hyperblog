@@ -40,3 +40,11 @@ html{
     font-size: 1.8rem;
     font-family: Arial;
 }
+
+.net-box{
+    text-align: center;
+    border: 2px dotted wheat;
+    padding: 1rem;
+    font-size: 1.8rem;
+    font-family: Arial;
+}
